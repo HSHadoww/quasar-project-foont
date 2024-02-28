@@ -65,8 +65,8 @@ module.exports = configure(function (/* ctx */) {
       // vueOptionsAPI: false,
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
-
-      // publicPath: '/',
+      ,
+      publicPath: '/quasar-project-foont/'
       // analyze: true,
       ,
       env: {
